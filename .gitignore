@@ -1,0 +1,21 @@
+
+# Laravel Backend
+laravel-backend/vendor/
+laravel-backend/.env
+laravel-backend/.env.backup
+laravel-backend/storage/*.key
+laravel-backend/bootstrap/cache/*.php
+
+# React Frontend
+react-frontend/node_modules/
+react-frontend/dist/
+
+# General
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Backup files
+*.backup
+*.bak
